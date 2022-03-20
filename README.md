@@ -4,4 +4,4 @@ La lógica de mi spring-boot se encuentra en el formulario de la página promos.
 
 Dentro de /com/ignacionunezG/starting se encuentran los archivos .java, como el ContactController y la Aplicación a ejecutar.
 
-Dentro de resources se encuentran los archivos .css, .html y .js
+Dentro de resources/static se encuentran los archivos .css, .html y .js
